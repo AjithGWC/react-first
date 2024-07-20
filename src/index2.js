@@ -2,10 +2,10 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function Index2() {
   return (
     <div className="App">
-      <header className="bg-orange-300">
+      <header className="bg-red-500">
         <img src={logo} className="ml-7" alt="logo" />
         <p className='p-3'>
         React is a free and open-source front-end JavaScript library for building user interfaces based on components by Facebook Inc. 
@@ -17,4 +17,4 @@ function App() {
   );
 }
 
-export default App;
+export default Index2;
